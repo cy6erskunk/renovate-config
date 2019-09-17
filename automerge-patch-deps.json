@@ -1,0 +1,13 @@
+{
+  "packageRules": [
+    {
+      "depTypeList": [
+        "dependencies"
+      ],
+      "updateTypes": [
+        "patch"
+      ],
+      "automerge": true
+    }
+  ]
+}
