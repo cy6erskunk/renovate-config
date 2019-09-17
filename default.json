@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "labels": [
+    "renovate-deps"
+  ],
+  "rebaseLabel": "rebase"
+}
+  
