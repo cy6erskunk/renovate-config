@@ -1,10 +1,10 @@
 {
   "packageRules": [
     {
-      "depTypeList": [
+      "matchDepTypes": [
         "devDependencies"
       ],
-      "updateTypes": [
+      "matchUpdateTypes": [
         "minor",
         "patch"
       ],
