@@ -5,6 +5,7 @@
   "labels": [
     "renovate-deps"
   ],
-  "rebaseLabel": "rebase"
+  "rebaseLabel": "rebase",
+  "rangeStrategy": "pin"
 }
   
