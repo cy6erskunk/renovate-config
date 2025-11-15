@@ -7,6 +7,6 @@
   ],
   "rebaseLabel": "rebase",
   "rangeStrategy": "pin",
-  "minimumReleaseAge": "24 hours"
+  "minimumReleaseAge": "7 days"
 }
   
