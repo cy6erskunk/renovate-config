@@ -6,6 +6,7 @@
     "renovate-deps"
   ],
   "rebaseLabel": "rebase",
-  "rangeStrategy": "pin"
+  "rangeStrategy": "pin",
+  "minimumReleaseAge": "7 days"
 }
   
